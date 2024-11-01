@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 2.0.5\n"
+
+msgid "Venyoo Chat Bot Plugin"
+msgstr "Venyoo Chat Bot Плагин"
+
+msgid "Venyoo Chat Bot"
+msgstr "Venyoo Chat Bot"
+
+msgid "Venyoo Chat Bot Setup"
+msgstr "Venyoo Chat Bot установка"
+
+msgid "Seems like everything is OK"
+msgstr "Плагин успешно установлен"
+
+msgid "website"
+msgstr "сайт"
+
+msgid "to see if the live chat widget is present"
+msgstr "чтобы увидеть установлен ли чат"
+
+msgid "Log in to your"
+msgstr "Войдите в свой"
+
+msgid "Venyoo dashboard"
+msgstr "Venyoo dashboard"
+
+msgid "to chat with your website visitors and manage preferences"
+msgstr "чтобы произвести необходимые настройки и начать получать клиентов"
+
+msgid "Signup for a free Venyoo account at"
+msgstr "Зарегистрируйте ваш бесплатный аккаунт в Venyoo"
+
+msgid "then copy and paste Widget code from Setup & Customize section into the form below"
+msgstr "затем скопируйте код из личного кабинета в форму ниже"
+
+msgid "Check your"
+msgstr "Проверьте свой"
